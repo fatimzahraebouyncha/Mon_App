@@ -15,3 +15,6 @@ data/user_store.json
 # Système
 .DS_Store
 Thumbs.db
+
+# Raccourci local de publication (propre à cette machine)
+publier-sur-github.cmd
