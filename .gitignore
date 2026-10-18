@@ -1,0 +1,17 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+
+# Cache des images téléchargées (régénéré automatiquement)
+assets/cache/
+
+# Données utilisateur locales (dressing, wishlist, rendez-vous…)
+data/user_store.json
+
+# Secrets Streamlit
+.streamlit/secrets.toml
+
+# Système
+.DS_Store
+Thumbs.db
